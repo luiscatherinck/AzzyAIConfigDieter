@@ -21,7 +21,7 @@ Você precisa baixar o AzzyAI original e aplicá-lo corretamente antes de usar e
 
 ### 2. Copie para a pasta do Ragnarok
 
-- Dentro do que foi extraído, localize a pasta `AI`
+- Dentro do que foi extraído, localize a pasta `USER_AI`
 - Copie a pasta `USER_AI` e cole dentro da pasta `AI` no diretório do **Ragnarok Clássico**.  
   Exemplo de caminho:
   ```
