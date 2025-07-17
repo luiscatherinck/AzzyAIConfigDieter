@@ -54,7 +54,7 @@ Esse comando **ativa o uso da IA personalizada** no Ragnarok. Você verá o hom�
 ## 🤝 Créditos
 
 - AzzyAI original criado por [Dr. Azzy (Spence Konde)](https://github.com/SpenceKonde/AzzyAI)
-- Configuração funcional ajustada e testada por **[@SeuNome/Nick]**
+- Configuração funcional ajustada (Lava automática) **[Eukanhart]**
 
 ---
 
